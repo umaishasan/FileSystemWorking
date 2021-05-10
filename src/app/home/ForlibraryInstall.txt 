@@ -1,0 +1,19 @@
+1)
+ionic cordova plugin add cordova-plugin-file-transfer
+npm install @ionic-native/file-transfer
+
+2)
+ionic cordova plugin add cordova-plugin-filechooser
+npm install @ionic-native/file-chooser
+
+3)
+ionic cordova plugin add cordova-plugin-filepath
+npm install @ionic-native/file-path
+
+4)
+ionic cordova plugin add cordova-plugin-file
+npm install @ionic-native/file
+
+5)
+ionic cordova plugin add cordova-plugin-file-opener2
+npm installC @ionic-native/file-opener
